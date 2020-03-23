@@ -61,6 +61,7 @@ color:white;
 <b><p style="text-align: center;font-size: 25px;">PAYMENT</p></b>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">Create</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:73px;">View</a><br>
+	
 <a href="" style="color: white;font-size: 20px;position: absolute;left:56px;">Configure</a><br>
 </section>
 <div>
